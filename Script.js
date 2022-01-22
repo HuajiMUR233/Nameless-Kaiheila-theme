@@ -1,6 +1,9 @@
 // ==UserScript==
 // @name         开黑啦主题
-// @namespace    https://www.kaiheila.cn/app/
+// @updateURL    https://cdn.jsdelivr.net/gh/HuajiMUR233/Nameless-Kaiheila-theme@main/Script.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/HuajiMUR233/Nameless-Kaiheila-theme@main/Script.js
+// @homepageURL  https://github.com/HuajiMUR233/Nameless-Kaiheila-theme
+// @source       https://github.com/HuajiMUR233/Nameless-Kaiheila-theme
 // @version      11.45.14
 // @description  开黑啦主题
 // @author       Huaji_MUR233
