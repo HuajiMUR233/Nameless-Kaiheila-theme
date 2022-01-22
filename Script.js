@@ -14,6 +14,6 @@
     var link = document.createElement('link');
     link.type='text/css';
     link.rel = 'stylesheet';
-    link.href = "https://cdn.jsdelivr.net/gh/HuajiMUR233/Nameless-Kaiheila-theme@main/Nameless.css";
+    link.href = "https://cdn.jsdelivr.net/gh/Misaka-L/Nameless-Kaiheila-theme@main/Nameless.css";
     head.appendChild(link);
 })();
