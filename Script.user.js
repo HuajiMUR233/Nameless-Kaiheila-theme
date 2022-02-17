@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         开黑啦主题
-// @updateURL    https://cdn.jsdelivr.net/gh/HuajiMUR233/Nameless-Kaiheila-theme@main/Script.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/HuajiMUR233/Nameless-Kaiheila-theme@main/Script.js
+// @updateURL    https://cdn.jsdelivr.net/gh/HuajiMUR233/Nameless-Kaiheila-theme@main/Script.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/HuajiMUR233/Nameless-Kaiheila-theme@main/Script.user.js
 // @homepageURL  https://github.com/HuajiMUR233/Nameless-Kaiheila-theme
 // @source       https://github.com/HuajiMUR233/Nameless-Kaiheila-theme
 // @version      11.45.14
